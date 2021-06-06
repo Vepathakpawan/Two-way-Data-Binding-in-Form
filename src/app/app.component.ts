@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Twowaydatabinding';
+  name = 'Pawan Vedpathak';
+email = 'pawanv007@gmail.com'
+contact = '8379079890'
+
 }
